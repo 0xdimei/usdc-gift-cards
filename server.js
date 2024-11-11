@@ -322,7 +322,7 @@ app.post('/send-gift-email-with-wallet', async (req, res) => {
         const delayedTime = new Date(Date.now() + 5 * 1000);
 
         const data = await resend.emails.send({
-            from: 'CryptoGiftBay <gifts@cryptogiftbay.com>',
+            from: 'USDC Gift Cards <noreply@resend.dev>',
             to: [recipientEmail],
             subject: `You've Received a $${amount} USDC Gift Card!`,
             scheduledAt: delayedTime, // Corrected from sendAt to scheduledAt
