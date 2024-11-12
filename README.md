@@ -105,9 +105,9 @@ MIT License
 
 ### Note on Code Quality
 Every single line of code in this project was generated through Cursor AI. While fully functional, you may notice:
-> - Extensive inline comments reflecting the iterative development process
->- Some code organization patterns that could be more elegant
-> - Redundant documentation in places
-> - Verbose error handling from careful iteration
-> 
-> Feel free to refactor and streamline the code while maintaining the core functionality!
+- Extensive inline comments reflecting the iterative development process
+- Some code organization patterns that could be more elegant
+- Redundant documentation in places
+- Verbose error handling from careful iteration
+
+Feel free to refactor and streamline the code while maintaining the core functionality!
