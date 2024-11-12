@@ -104,7 +104,7 @@ npm start
 MIT License
 
 ### Note on Code Quality
-Everything single line of code in this project was generated through Cursor. While fully functional, you may notice:
+Every single line of code in this project was generated through Cursor AI. While fully functional, you may notice:
 > - Extensive inline comments reflecting the iterative development process
 >- Some code organization patterns that could be more elegant
 > - Redundant documentation in places
